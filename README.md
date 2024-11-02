@@ -37,6 +37,7 @@ Be careful what you do, if you don't know what this command will do, I advise yo
 
 ### Fix dm-verity corruption
  - Solution I found here [XDA forum](https://xdaforums.com/t/lenovo-tab-m11-tb-330xu-dm-verity-corruption.4666236/#post-89652789).
+ - But the solution don't remove the delay :(
 #### Fix that button press is needed to boot 
  - Install [lkpathcer](https://github.com/R0rt1z2/lkpatcher).
  - Then get `lk_a.bin` and `lk_b.bin` from [Dump](#dump-all).
@@ -46,6 +47,8 @@ python3 -m lkpatcher -o pathed_lk_a.bin lk_a.bin
 python3 -m lkpatcher -o pathed_lk_b.bin lk_b.bin
 ```
  - Then flash with MtkClentUI.
+ - Enter to the [BROM mode](#brom-mode)
  - In the `Write partiction(s)` section set path to the `pathed_lk_a.bin` and `pathed_lk_a.bin` for `lk_a` and `lk_b` respectively.
  - Click to the `Write partiction(s)` button
+
 
