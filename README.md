@@ -1,9 +1,5 @@
 # TB-330FU
-### My stock paramters
-- Lenovo ZUI 16.0.070
-- Android 14
-- 8GB Ram and 128GB Storage
-- CPU:
+This is description of my actions how I got more useful and comfortable experience with my tablet
 # DISCLAIMER
 Be careful what you do, if you don't know what this command will do, I advise you not to execute it. This is not a tutorial, just my experience, so again, be careful
 ### CREATE DUMP FROM YOUR DEVICE!
