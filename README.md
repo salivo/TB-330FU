@@ -1,5 +1,5 @@
-# TB-330XU
-Playing with Lenovo Tab M11 (TB-330XU)
+# TB-330FU
+Playing with Lenovo Tab M11 (TB-330FU)
 ## Stock paramters
 - Lenovo ZUI 16.0.070
 - Android 14
